@@ -1,0 +1,327 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seven yeares expired, the third of November. 1647.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92965</idno>
+            <idno type="STC">Wing S2742</idno>
+            <idno type="STC">Thomason 669.f.11[94]</idno>
+            <idno type="STC">ESTC R210676</idno>
+            <idno type="EEBO-CITATION">99869451</idno>
+            <idno type="PROQUEST">99869451</idno>
+            <idno type="VID">162746</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162746)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[94])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seven yeares expired, the third of November. 1647.</title>
+                  <author>Quarles, Francis, 1592-1644.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Three poems; the first and the third anonymous, the second by Francis Quarles.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Verse - "Seven yeares the troublous time away did slip,".</note>
+                  <note>Annotation on Thomason copy: "Nou 7. 1647".</note>
+                  <note>Reproduction of the originals in the British Library.</note>
+                  <note>Seven years expired, the third of November, 1647 -- A direfull anathema against peace-haters / Franc. Quarles -- The commons exultation, anagrammaticall to the Parliament, anagram prai lament.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poems">
+            <pb facs="tcp:162746:1" rendition="simple:additions"/>
+            <div type="poem">
+               <head>Seven yeares expired, the third of <hi>November,</hi> 1647,</head>
+               <l>SEven yeares the troublous time away did ſlip,</l>
+               <l>And King and Parliaments Apprenticeſhip</l>
+               <l>Are come t'an end, let both ſides be made Free,</l>
+               <l>Th'ave bin at ſtrife too long, 'tis time t'agree.</l>
+               <l>Seven is a number of moſt ſtrange Predictions,</l>
+               <l>Seven yeares King <hi>Charles</hi> hath under-gon Afflictions,</l>
+               <l>Seven yeares the Parliament the Rule did hold,</l>
+               <l>Seven years (twice more) they would do, if they could.</l>
+               <l>Seven yeares <hi>Egypts</hi> leane Kine did gourmandiſe,</l>
+               <l>Seven yeares (thrice more) their Mawes wil not ſuffiſe.</l>
+               <l>Seven yeares all good men have endured ſlaverie,</l>
+               <l>Seven years baſe villains have grown rich by knaverie,</l>
+               <l>Seven yeares the King ſerv'd to a troublous Trade,</l>
+               <l>Seven yeares expir'd, pray let him Free be made;</l>
+               <l>Seven yeares are gone, th' Apprenticeſhip is paſt,</l>
+               <l>Pray let him have his Freedome now at laſt;</l>
+               <l>Hee's paſt a Prentice, doe the beſt you can</l>
+               <l>To ſet him Vp, make him no Journey-man:</l>
+               <l>Of all men, he deſerves moſt to be Free;</l>
+               <l>To be ſet Vp, no man's ſo fit as hee.</l>
+               <l>His Freedome is, to have but what's his owne;</l>
+               <l>His Libertie, his Kingdomes, Crowne, and Throne,</l>
+               <l>His VVife, his Children; and that Lawes and Right</l>
+               <l>May not be over-ſway'd by Power and Might;</l>
+               <l>That Gods true Service may ſet forth his Glorie,</l>
+               <l>And not a babbling Non-ſence <hi>Directorie;</hi>
+               </l>
+               <l>That King and Parliament may ſo agree,</l>
+               <l>That one may Soveraigne, th'other Subiects bee:</l>
+               <l>And ſuch as wiſh not King and Kingdomes freedom,</l>
+               <l>The Devill to the Gallowes quickly ſpeed 'em.</l>
+            </div>
+            <div type="poem">
+               <head>A direfull Anathema againſt <hi>PEACE-HATERS,</hi>
+               </head>
+               <byline>written by <hi>Franc. Quarles.</hi>
+               </byline>
+               <l>PEace Vipers, Peace, let crying bloud ne'r ceaſe</l>
+               <l>To haunt your guilty Soules, that love not Peace:</l>
+               <l>And curſt be that Religion, that muſt buy</l>
+               <l>A Reformation with Phlebotomie.</l>
+               <l>Infernall Fire-brands, whom the very Teares</l>
+               <l>Of groaning <hi>England,</hi> ſwallow'd up with Feares,</l>
+               <l>Cannot allay, nor yet the bleeding Vaines</l>
+               <l>Of deſperate <hi>Ireland,</hi> which even now remaines</l>
+               <l>A very <hi>Golgotha,</hi> cannot aſſwage;</l>
+               <l>VVhoſe Babes, the Earneſt of another Age,</l>
+               <l>Taſte of your ſavage Pietie, and lie</l>
+               <l>The Lambe-like Martyrs of your Crueltie:</l>
+               <l>VVhileſt you lye ſafely embr'd, to encreaſe</l>
+               <l>The flames of <hi>Christendome,</hi> and cry, No Peace.</l>
+               <l>Let <hi>Samſons</hi> coupl'd Meſſengers convay</l>
+               <l>Theſe Fire-brands hence, and let them make their way</l>
+               <l>To their owne Houſes, there conſume, devaſt,</l>
+               <l>Burne downe their Houſes, lay their Gran'ries waſt:</l>
+               <l>Let all their Sonnes run mad into the Street,</l>
+               <l>And ſeeking Refuge there, there let them meet</l>
+               <l>Th'encountring Sword; and whom that ſpares to kill,</l>
+               <l>Let them be Slaves, and labour at the Mill:</l>
+               <l>Let all their VVives and Daughters beg in vaine,</l>
+               <l>Let them be raviſht firſt, and after ſlaine.</l>
+               <l>Let all their Kindred wander up and downe</l>
+               <l>Like Vagabonds, be laſht from Towne to Towne:</l>
+               <l>Let Baſeneſſe be en tayl'd upon their Name</l>
+               <l>Too firme for all Recoveries; let Shame,</l>
+               <l>Reproach, and laſting Infamie remaine.</l>
+               <l>In deeper Characters then that of Raine,</l>
+               <l>Let <hi>Catesby, Piercy,</hi> and that bloudie Knot</l>
+               <l>Be Sainted now, or elſe at leaſt forgot:</l>
+               <l>And let theſe Vipers vindicate their Crimes</l>
+               <l>In every <hi>Almanack</hi> for after-Times;</l>
+               <l>VVhere, let their baſeneſſe live among the <hi>Sinces,</hi>
+               </l>
+               <l>More firm the<g ref="char:cmbAbbrStroke">̄</g> reigns of Kings, or births of Princes:</l>
+               <l>Thus let theſe Fire-brands thrive, and if this Curſe</l>
+               <l>Succeed not, may it yeeld unto a worſe</l>
+               <l>For them; let them ſtill live, till (He) thinke good</l>
+               <l>To quench them in their Generations blood:</l>
+               <l>That all the world may hiſſe, and heare them crie,</l>
+               <l>VVho lov'd not Peace, in Peace ſhall never die.</l>
+            </div>
+            <div type="poem">
+               <head>The Commons Exultation, Anagrammaticall to the <hi>PARLIAMENT,</hi> Anagram <hi>PRAI LAMENT.</hi>
+               </head>
+               <l>PRay ye that awe the Land, in <hi>Moſes</hi> Chaire,</l>
+               <l>And you (the Church) in <hi>Aarons,</hi> gainſt that <hi>Prayer,</hi>
+               </l>
+               <l>An Ancient Parliament made <hi>Common;</hi> more</l>
+               <l>Hate <hi>Common Prayer</hi> then a common Whore;</l>
+               <l>Eſpecially reject the <hi>Pater Noster</hi>
+               </l>
+               <l>And Churches <hi>Liturgie:</hi> for if you foſter</l>
+               <l>Such Heavenly Charmes, take heed you'l pray for Kings,</l>
+               <l>Queenes, Princes, Prelates, ſuch are deadly things:</l>
+               <l>So you your Chriſtian Faith might re-admit,</l>
+               <l>Turne honeſt men regaine your long-loſt Wit,</l>
+               <l>And ſo your fear'd black Conſciences would vex ye,</l>
+               <l>Which are benum'd now, and not yet perplex ye.</l>
+               <l>As God commands, t'obey the Higher Powers,</l>
+               <l>You will be higheſt, and all Power is yours,</l>
+               <l>And you know, if the King ſhould have his due,</l>
+               <l>And you have yours, what would become of you?</l>
+               <l>'Twould make all good men glad, and bad men grieve,</l>
+               <l>And <hi>Gregories</hi> gaines would make him fine for Shrieve;</l>
+               <l>His Foot-cloth, Saddle, and his golden Chaine,</l>
+               <l>The Knave would be a fine proud Knave in Graine.</l>
+               <l>For juſt power will o're-top your Lording ſtate,</l>
+               <l>And curbe (your Pride Superlative) your hate.</l>
+               <l>Pray for the Spirit of Stupid Ignorance,</l>
+               <l>Which may to ſacred Pulpits fooles aduance;</l>
+               <l>For <hi>Academicks</hi> ſee, (with <hi>Argos</hi> Eyes)</l>
+               <l>Th'are for your Sects and doings, too quick Spies:</l>
+               <l>There's two wayes left you, do as, you began,</l>
+               <l>Love nor regard, or feare nor God or Man,</l>
+               <l>Sit in your Thrones, ne're to your Homes go back,</l>
+               <l>To ſee your handy-worke, your Countries wrack,</l>
+               <l>Y'are ſafe and whole, here gaine the golden Fleeces,</l>
+               <l>But in the Countrey you'd be torne in peices;</l>
+               <l>Though Home be Homely, yet 'tis full of feare,</l>
+               <l>If you go home you'le find the Devill is there.</l>
+               <l>Therefore (as yet) pray breake not up your Schooles,</l>
+               <l>Clubs, Flailes, Pitchforkes, are but churliſh Tooles,</l>
+               <l>And where you thinke the freſh Ayre will refreſh ye,</l>
+               <l>The oppreſſed Countrey <hi>Corridons</hi> will threſh ye.</l>
+               <l>The wronged <hi>Yeomanrie</hi> are ſtout and tough,</l>
+               <l>And they are not yet pol'd halfe bare enough,</l>
+               <l>They ſtill have left ſome Horſes, Sheepe and Swine,</l>
+               <l>Some little ſtore of Money, Calves, and Kine;</l>
+               <l>You have but taken part from them as yet,</l>
+               <l>You muſt take all, or leave them ne're a whit:</l>
+               <l>The onely way their courages to quaile,</l>
+               <l>Is, ſtrip 'em all, as naked as my Nayle,</l>
+               <l>Take from them all, whereby they may ſubſiſt,</l>
+               <l>And then they'le not be able to reſiſt:</l>
+               <l>Thus may you Rule and Raigne, and ſit ſecure,</l>
+               <l>You and your Heires, for ever to endure.</l>
+               <l>Sit ſtill, Returne not to your Habitations,</l>
+               <l>They'le call you to account for Sequeſtrations,</l>
+               <l>For plunderings, for free-quarterings, and oppreſſions,</l>
+               <l>And all your Tyraunies, (beyond expreſſions)</l>
+               <l>You'le be examin'd what good you have done?</l>
+               <l>And you (moſt humbly) muſt ſay, truely none;</l>
+               <l>They'le aske you then, what evills ye have committed?</l>
+               <l>You'le anſwer, We no Miſchiefe have omitted;</l>
+               <l>Then they'le demand, How fares the King, I pray?</l>
+               <l>You'le ſay, he beares the Name, and we the ſway.</l>
+               <l>They'le aske, of true Religion what's become?</l>
+               <l>And you muſt anſwer, you have ſtrucke her dumbe:</l>
+               <l>Then theyle require, What did you with the Church?</l>
+               <l>And you'le Reply, ye'ave left her in the lurch:</l>
+               <l>Ye'ave brought Confuſion to our <hi>Albion.</hi>
+               </l>
+               <l>And made King <hi>Charles</hi> a King of <hi>Babylon:</hi>
+               </l>
+               <l>Nothing of <hi>Englands</hi> left, but foule defame,</l>
+               <l>And <hi>Babell-</hi>Building of old <hi>Amsterdam:</hi>
+               </l>
+               <l>Famous for this, that ſinne, or any thing</l>
+               <l>May be endured, but one Church, one King.</l>
+               <l>The Arke once Landed at our happy Haven.</l>
+               <l>We have refus'd the Dove, and tooke the Raven,</l>
+               <l>Whoſe greedy Appetite, and diſmall croaking,</l>
+               <l>Hath bin Lawes, Churches, and Religions choaking:</l>
+               <l>Of all theſe crimes the Country will accuſe you,</l>
+               <l>And find you Guilty, and moſt kindly uſe you.</l>
+               <l>Theſe queſtions will be ask'd, and more then theſe,</l>
+               <l>Therefore ſit ſtill if you love Wealth and Eaſe.</l>
+               <l>The cryes and curſes of the poore are fierce,</l>
+               <l>And to Gods terrible Tribunall pierce:</l>
+               <l>Therefore (good) <hi>Parliament</hi> (l) <hi>Prai Lament,</hi>
+               </l>
+               <l>Lament, repent, juſt Vengeance to prevent:</l>
+               <l>Pray till your laſting Lungs and Breath is ſpent</l>
+               <l>The reſt of time melt into teares, lament.</l>
+               <l>But can you weepe your ſelves into a ſtood,</l>
+               <l>That could not weepe to ſee us weepe in blood?</l>
+               <l>Your hearts were rather tickl'd at the p<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey,</l>
+               <l>VVhen as you traffiqu'd over our Red Sea:</l>
+               <l>If ere you weepe, perhaps your cheekes you'le wet,</l>
+               <l>As <hi>Ahab</hi> did, who did but counterfet;</l>
+               <l>Or like the weeping of the <hi>Crocodile,</hi>
+               </l>
+               <l>That murthers people as they paſſe by <hi>Nyle;</hi>
+               </l>
+               <l>Or if your teares are reall, you muſt borrow</l>
+               <l>From <hi>Eſau</hi> tardy teares of needleſſe ſorrow:</l>
+               <l>For why (like him) you do repent too late,</l>
+               <l>To move our wornged Soules you've fill'd with hate.</l>
+               <l>But if (like <hi>Peter)</hi> you could weepe moſt bitter</l>
+               <l>True teares of Penitence, they would be ſweeter</l>
+               <l>T'your ſelves, the widowes and the fatherleſſe,</l>
+               <l>(Your late petitioners without redreſſe.)</l>
+               <l>I would you knew how Country, Court, and City,</l>
+               <l>Laugh at your dangers, ſlight you without pitty,</l>
+               <l>Curſes flye up, that you may be confounded</l>
+               <l>To that black pit, whoſe bottome ne're was ſounded.</l>
+               <l>But yet (though not to Man) to God ſtill weepe,</l>
+               <l>For in his Bottle he true teares doth keepe:</l>
+               <l>Pay true repentance up, for your Exciſe,</l>
+               <l>To God for Sinne, Hee'le wipe teares from your eyes,</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
